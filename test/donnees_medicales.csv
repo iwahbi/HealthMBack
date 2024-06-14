@@ -1,0 +1,45 @@
+Disease,Treatment,Speciality
+Inflammation,Antibiotics,Infectious Disease Specialist
+Migraine,Analgesic,Neurologist
+Cold,Rest and hydration,General Practitioner
+Gastritis,Antacids,Gastroenterologist
+Diabetes,Insulin,Endocrinologist
+Hypertension,Antihypertensive medications,Cardiologist
+Asthma,Bronchodilators,Pulmonologist
+Fever,Antipyretics,General Practitioner
+Food allergy,Avoidance of allergen,Allergist
+Bone fracture,Plaster cast,Orthopedic Surgeon
+Flu,Antiviral drugs,Infectious Disease Specialist
+Anxiety,Cognitive-behavioral therapy,Psychiatrist
+Cancer,Chemotherapy,Oncologist
+Acne,Skin cleansing and topical products,Dermatologist
+Diarrhea,Rehydration and light diet,Gastroenterologist
+Insomnia,Behavioral therapy or sleep aids,Sleep Specialist
+Sinusitis,Antibiotics or decongestants,"Ear, Nose, and Throat (ENT) Specialist"
+Gastric ulcer,Proton pump inhibitors,Gastroenterologist
+High cholesterol,Statins and dietary changes,Cardiologist
+Depression,Therapy and/or antidepressants,Psychiatrist
+Mumps,Vaccination (MMR),Pediatrician
+Alopecia (hair loss),Minoxidil or hair transplantation,Dermatologist
+Arthritis,Non-steroidal anti-inflammatory drugs (NSAIDs),Rheumatologist
+Back pain,Physiotherapy and analgesics,Physical Therapist or Orthopedic Specialist
+Osteoporosis,Calcium and vitamin D supplements,Endocrinologist
+Hepatitis,Antiviral drugs,Hepatologist
+Obesity,Dietary modification and exercise,Endocrinologist or Nutritionist
+Glaucoma,Eye drops for intraocular pressure reduction,Ophthalmologist
+Cystitis (urinary infection),Antibiotics,Urologist
+Asthma,Corticosteroid inhalers,Pulmonologist
+Eczema,Topical creams,Dermatologist
+Tension headache,Over-the-counter pain relievers,Neurologist
+Lupus,Immunosuppressive medications,Rheumatologist
+Endometriosis,Surgery or hormones,Gynecologist
+Anemia,Iron supplements and iron-rich diet,Hematologist
+Parkinson's,Dopaminergic medications,Neurologist
+Multiple sclerosis,Disease-modifying medications,Neurologist
+Pneumonia,Antibiotics and rest,Pulmonologist or Infectious Disease Specialist
+Fibromyalgia,Physical therapy and analgesics,Rheumatologist or Pain Specialist
+Glaucoma,Laser surgery,Ophthalmologist
+Hemorrhoids,Topical creams and dietary changes,Colorectal Surgeon
+Bipolar disorder,Therapy and mood stabilizing medications,Psychiatrist
+Gastric acidity,Antacids and dietary modifications,Gastroenterologist
+Irritable bowel syndrome,Dietary modification and stress management,Gastroenterologist
